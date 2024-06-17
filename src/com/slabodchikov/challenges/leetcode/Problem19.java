@@ -1,4 +1,4 @@
-package com.slabodchikov.challenges.leetcode.interview;
+package com.slabodchikov.challenges.leetcode;
 
 import java.util.Stack;
 

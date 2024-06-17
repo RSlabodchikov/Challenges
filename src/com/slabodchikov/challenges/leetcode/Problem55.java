@@ -1,4 +1,4 @@
-package com.slabodchikov.challenges.leetcode.interview;
+package com.slabodchikov.challenges.leetcode;
 
 /**
  * @author Roman Slabodchikov on 1/26/2023
