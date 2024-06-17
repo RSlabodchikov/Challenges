@@ -9,12 +9,14 @@ import java.util.Stack;
 public class Problem19 {
 
     public static void main(String[] args) {
+
         ListNode head = new ListNode(2);
         head.next = new ListNode(1);
         System.out.println(removeNthFromEnd(head, 2));
     }
 
     public static ListNode removeNthFromEnd(ListNode head, int n) {
+
         Stack<ListNode> stackNodes = new Stack<>();
         ListNode cur = head;
         ListNode prev = head.next;
