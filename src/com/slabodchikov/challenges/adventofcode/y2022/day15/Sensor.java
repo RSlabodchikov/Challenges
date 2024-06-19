@@ -1,7 +1,7 @@
 package com.slabodchikov.challenges.adventofcode.y2022.day15;
 
 /**
- * @author Roman Slabodchikov on 23.12.2022
+ * @author Roman Slabodchikov
  */
 public class Sensor {
 

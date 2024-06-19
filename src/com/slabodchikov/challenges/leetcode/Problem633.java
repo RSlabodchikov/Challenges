@@ -1,7 +1,7 @@
 package com.slabodchikov.challenges.leetcode;
 
 /**
- * @author Roman Slabodchikov on 5/22/2024
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/sum-of-square-numbers/description/">Problem 633</a>
  */
 public class Problem633 {

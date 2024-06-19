@@ -7,7 +7,7 @@ import java.util.Stack;
 
 
 /**
- * @author Roman Slabodchikov on 5/22/2024
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/description/">Problem 94</a>
  */
 public class Problem94 {

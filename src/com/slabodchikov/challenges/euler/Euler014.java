@@ -10,7 +10,7 @@ import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author Roman Slabodchikov on 07.11.2022
+ * @author Roman Slabodchikov
  */
 public class Euler014 {
 

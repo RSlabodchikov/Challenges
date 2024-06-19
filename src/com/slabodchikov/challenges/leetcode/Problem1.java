@@ -3,7 +3,7 @@ package com.slabodchikov.challenges.leetcode;
 import java.util.Arrays;
 
 /**
- * @author Roman Slabodchikov on 1/24/2023
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/two-sum/">Problem</a>
  */
 public class Problem1 {

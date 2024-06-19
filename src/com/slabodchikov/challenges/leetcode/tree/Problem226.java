@@ -1,7 +1,7 @@
 package com.slabodchikov.challenges.leetcode.tree;
 
 /**
- * @author Roman Slabodchikov on 5/22/2024
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/invert-binary-tree/description/">Problem 226</a>
  */
 public class Problem226 {

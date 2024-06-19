@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Roman Slabodchikov on 15.12.2022
+ * @author Roman Slabodchikov
  */
 public class Directory {
 

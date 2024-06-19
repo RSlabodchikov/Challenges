@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 /**
- * @author Roman Slabodchikov on 12.12.2022
+ * @author Roman Slabodchikov
  */
 public class Part1 {
 

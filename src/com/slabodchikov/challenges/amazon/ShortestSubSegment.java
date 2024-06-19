@@ -9,7 +9,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author Roman Slabodchikov on 02.11.2022
+ * @author Roman Slabodchikov
  */
 public class ShortestSubSegment {
 

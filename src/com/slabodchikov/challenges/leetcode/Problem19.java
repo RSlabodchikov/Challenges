@@ -3,7 +3,7 @@ package com.slabodchikov.challenges.leetcode;
 import java.util.Stack;
 
 /**
- * @author Roman Slabodchikov on 1/26/2023
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Problem 19</a>
  */
 public class Problem19 {

@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * @author Roman Slabodchikov on 04.11.2022
+ * @author Roman Slabodchikov
  */
 public class Euler010 {
 

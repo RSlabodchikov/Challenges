@@ -3,7 +3,7 @@ package com.slabodchikov.challenges.leetcode;
 import java.util.Arrays;
 
 /**
- * @author Roman Slabodchikov on 5/22/2024
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/">Problem 945</a>
  */
 public class Problem945 {

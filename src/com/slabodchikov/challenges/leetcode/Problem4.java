@@ -1,7 +1,7 @@
 package com.slabodchikov.challenges.leetcode;
 
 /**
- * @author Roman Slabodchikov on 1/24/2023
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Problem</a>
  */
 public class Problem4 {

@@ -1,7 +1,7 @@
 package com.slabodchikov.challenges.leetcode;
 
 /**
- * @author Roman Slabodchikov on 1/23/2023
+ * @author Roman Slabodchikov
  */
 public class Problem2319 {
 

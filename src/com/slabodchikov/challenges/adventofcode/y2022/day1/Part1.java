@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
- * @author Roman Slabodchikov on 01.12.2022
+ * @author Roman Slabodchikov
  */
 public class Part1 {
 

@@ -3,7 +3,7 @@ package com.slabodchikov.challenges.adventofcode.y2022.utils;
 import java.util.Objects;
 
 /**
- * @author Roman Slabodchikov on 21.12.2022
+ * @author Roman Slabodchikov
  */
 public class Pair<L, R> {
     public final L left;

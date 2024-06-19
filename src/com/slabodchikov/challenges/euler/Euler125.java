@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 /**
- * @author Roman Slabodchikov on 22.11.2022
+ * @author Roman Slabodchikov
  */
 public class Euler125 {
 

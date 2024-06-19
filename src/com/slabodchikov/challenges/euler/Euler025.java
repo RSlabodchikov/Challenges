@@ -3,7 +3,7 @@ package com.slabodchikov.challenges.euler;
 import java.util.Scanner;
 
 /**
- * @author Roman Slabodchikov on 24.11.2022
+ * @author Roman Slabodchikov
  */
 public class Euler025 {
     private static final double phi = (1 + Math.sqrt(5)) / 2;

@@ -5,7 +5,7 @@ import java.util.LinkedList;
 /**
  * Given a string s, find the length of the longest substring without repeating characters.
  *
- * @author Roman Slabodchikov on 3/16/2023
+ * @author Roman Slabodchikov
  */
 public class LongestSubstring {
 

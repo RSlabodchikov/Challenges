@@ -1,7 +1,7 @@
 package com.slabodchikov.challenges.leetcode;
 
 /**
- * @author Roman Slabodchikov on 1/24/2023
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/divide-two-integers/description/"></a>
  */
 public class Problem29 {

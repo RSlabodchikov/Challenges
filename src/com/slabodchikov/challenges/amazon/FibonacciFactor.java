@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @author Roman Slabodchikov on 03.11.2022
+ * @author Roman Slabodchikov
  */
 public class FibonacciFactor {
 

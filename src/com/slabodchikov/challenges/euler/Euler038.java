@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * @author Roman Slabodchikov on 21.11.2022
+ * @author Roman Slabodchikov
  */
 public class Euler038 {
 

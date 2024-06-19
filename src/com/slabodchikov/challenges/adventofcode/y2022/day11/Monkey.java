@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.function.Function;
 
 /**
- * @author Roman Slabodchikov on 19.12.2022
+ * @author Roman Slabodchikov
  */
 public class Monkey {
 

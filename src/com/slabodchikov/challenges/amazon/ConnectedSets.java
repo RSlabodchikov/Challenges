@@ -3,7 +3,7 @@ package com.slabodchikov.challenges.amazon;
 import java.util.Scanner;
 
 /**
- * @author Roman Slabodchikov on 02.11.2022
+ * @author Roman Slabodchikov
  */
 public class ConnectedSets {
 

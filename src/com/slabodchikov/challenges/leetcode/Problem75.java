@@ -3,7 +3,7 @@ package com.slabodchikov.challenges.leetcode;
 import java.util.Arrays;
 
 /**
- * @author Roman Slabodchikov on 5/22/2024
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/sort-colors/">Problem 77</a>
  */
 public class Problem75 {

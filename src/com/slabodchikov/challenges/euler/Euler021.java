@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 /**
- * @author Roman Slabodchikov on 24.11.2022
+ * @author Roman Slabodchikov
  */
 public class Euler021 {
 

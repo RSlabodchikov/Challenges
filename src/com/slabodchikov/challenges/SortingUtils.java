@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Roman Slabodchikov on 2/22/2023
+ * @author Roman Slabodchikov
  */
 public class SortingUtils {
 

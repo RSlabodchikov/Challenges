@@ -5,7 +5,7 @@ import com.slabodchikov.challenges.adventofcode.y2022.utils.Pair;
 import java.util.Arrays;
 
 /**
- * @author Roman Slabodchikov on 22.12.2022
+ * @author Roman Slabodchikov
  */
 public class Cave {
 

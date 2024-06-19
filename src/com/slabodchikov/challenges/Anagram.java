@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author Roman Slabodchikov on 3/16/2023
+ * @author Roman Slabodchikov
  */
 public class Anagram {
 

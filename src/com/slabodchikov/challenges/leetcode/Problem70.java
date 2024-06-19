@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Roman Slabodchikov on 1/27/2023
+ * @author Roman Slabodchikov
  * @see <a href="https://leetcode.com/problems/climbing-stairs/">Problem 70</a>
  */
 public class Problem70 {

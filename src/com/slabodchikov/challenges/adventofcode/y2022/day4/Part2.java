@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 /**
- * @author Roman Slabodchikov on 12.12.2022
+ * @author Roman Slabodchikov
  */
 public class Part2 {
 

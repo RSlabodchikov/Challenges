@@ -3,7 +3,7 @@ package com.slabodchikov.challenges.euler;
 import java.util.Scanner;
 
 /**
- * @author Roman Slabodchikov on 21.11.2022
+ * @author Roman Slabodchikov
  */
 public class Euler037 {
 

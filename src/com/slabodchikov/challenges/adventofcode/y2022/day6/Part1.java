@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 /**
- * @author Roman Slabodchikov on 15.12.2022
+ * @author Roman Slabodchikov
  */
 public class Part1 {
 

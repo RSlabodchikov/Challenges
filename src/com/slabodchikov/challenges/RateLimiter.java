@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author Roman Slabodchikov on 3/21/2023
+ * @author Roman Slabodchikov
  */
 public class RateLimiter {
 
