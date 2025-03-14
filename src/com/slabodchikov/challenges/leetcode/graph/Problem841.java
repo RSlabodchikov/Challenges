@@ -1,4 +1,4 @@
-package com.slabodchikov.challenges.leetcode.tree;
+package com.slabodchikov.challenges.leetcode.graph;
 
 import java.util.*;
 
