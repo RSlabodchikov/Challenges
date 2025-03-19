@@ -2,7 +2,7 @@ package com.slabodchikov.challenges.leetcode;
 
 /**
  * @author Roman Slabodchikov
- * @see <a href="https://leetcode.com/problems/add-two-numbers/">Problem</a>
+ * @see <a href="https://leetcode.com/problems/add-two-numbers/">Problem 2</a>
  */
 public class Problem2 {
 

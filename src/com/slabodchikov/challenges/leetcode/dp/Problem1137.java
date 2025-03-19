@@ -1,5 +1,9 @@
 package com.slabodchikov.challenges.leetcode.dp;
 
+/**
+ * @author Roman Slabodchikov
+ * @see <a href="https://leetcode.com/problems/n-th-tribonacci-number">Problem 1137</a>
+ */
 public class Problem1137 {
 
     public static void main(String[] args) {
