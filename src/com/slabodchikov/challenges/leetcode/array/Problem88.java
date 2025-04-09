@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @author Roman Slabodchikov
- * @see <a href="https://leetcode.com/problems/remove-element">Problem 88</a>
+ * @see <a href="https://leetcode.com/problems/merge-sorted-array">Problem 88</a>
  */
 public class Problem88 {
 
