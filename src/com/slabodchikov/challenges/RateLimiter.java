@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
  */
 public class RateLimiter {
 
-    private static final Map<Integer, Long> transactions = new ConcurrentHashMap<>();
+    private final Map<Integer, Long> transactions = new ConcurrentHashMap<>();
     private final Long threshold;
 
     public RateLimiter(Long threshold) {
@@ -20,14 +20,11 @@ public class RateLimiter {
         if (transactions.size() >= threshold) {
             return false;
         }
-        long currentTime = System.currentTimeMillis();
-        transactions.put(request.hashCode(), currentTime);
+        transactions.put(request.hashCode(), System.currentTimeMillis());
         return true;
     }
 
     public void releaseTransaction(HttpRequest request) {
-        long currentTime = System.currentTimeMillis();
-        long startTime = transactions.remove(request.hashCode());
-        long txTime = currentTime - startTime;
+        transactions.remove(request.hashCode());
     }
 }

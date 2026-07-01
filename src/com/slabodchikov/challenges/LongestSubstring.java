@@ -1,6 +1,7 @@
 package com.slabodchikov.challenges;
 
-import java.util.LinkedList;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Given a string s, find the length of the longest substring without repeating characters.
@@ -15,25 +16,21 @@ public class LongestSubstring {
     }
 
     public int calculateLongestSubstring(String s) {
-        if (s == null || s.length() == 0) {
+        if (s == null || s.isEmpty()) {
             return 0;
         }
-        int maxLength = 1;
-        LinkedList<Character> uniqList = new LinkedList<>();
-        for (char c : s.toCharArray()) {
-            if (uniqList.contains(c)) {
-                if (uniqList.size() - 1 > maxLength) {
-                    maxLength = uniqList.size();
-                }
-                while (uniqList.size() > 0 && uniqList.getFirst().equals(c)) {
-                    uniqList.removeFirst();
-                }
-            }
-            uniqList.addLast(c);
-        }
 
-        if (uniqList.size() - 1 > maxLength) {
-            maxLength = uniqList.size();
+        Map<Character, Integer> lastSeenIndex = new HashMap<>();
+        int maxLength = 0;
+        int windowStart = 0;
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            Integer previousIndex = lastSeenIndex.get(c);
+            if (previousIndex != null && previousIndex >= windowStart) {
+                windowStart = previousIndex + 1;
+            }
+            lastSeenIndex.put(c, i);
+            maxLength = Math.max(maxLength, i - windowStart + 1);
         }
 
         return maxLength;
